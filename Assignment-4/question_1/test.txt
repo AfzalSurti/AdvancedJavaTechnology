@@ -1,0 +1,4 @@
+Hello from Server Machine!
+This file is read using RMI.
+okay
+everything is work perfectly
